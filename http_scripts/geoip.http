@@ -1,0 +1,7 @@
+POST http://localhost:7881/api/v1/geoip
+Content-Type: application/json
+
+[
+  "179.184.120.131",
+  "51.37.124.126"
+]
